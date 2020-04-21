@@ -1,0 +1,4 @@
+pytorch
+fastai
+fasttext
+gensim
